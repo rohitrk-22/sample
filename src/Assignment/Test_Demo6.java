@@ -13,5 +13,6 @@ public class Test_Demo6 {
 		d6.a=40;
 		Demo6 d8 = Demo6.getDemo6Object();
 		System.out.println(d8.a);
+		System.out.println("hi");
 	}
 }
